@@ -8,6 +8,6 @@ Implementation of a simple graphic engine using scalability algorithms including
 
 You can find all the information in the project report.
 
-# Visibility Precomputation(Lab6)
+## Visibility Precomputation(Lab6)
 
 Implementation of the Supercover Bresenham algorithm to precompute the visibility map used in the Full project.
