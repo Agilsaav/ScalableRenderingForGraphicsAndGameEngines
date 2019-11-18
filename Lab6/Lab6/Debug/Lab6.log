@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\Lab6\Lab6.cpp(149,33): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\Lab6\Lab6.cpp(153,41): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\Lab6\Lab6.cpp(52,16): warning C4101:  'firstIt': unreferenced local variable
+  Lab6.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\Debug\Lab6.exe

@@ -1,0 +1,23 @@
+﻿  Scene.cpp
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(99,45): warning C4244:  'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(99,71): warning C4244:  'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(109,58): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(296,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(299,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(302,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(305,19): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(326,9): warning C4244:  '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(427,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(436,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(453,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(462,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(479,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(488,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(505,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(514,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(540,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(547,58): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(567,38): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(576,38): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\Lab_64\src\Scene.cpp(655,57): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Lab_64.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab_64\x64\Debug\Lab_64.exe

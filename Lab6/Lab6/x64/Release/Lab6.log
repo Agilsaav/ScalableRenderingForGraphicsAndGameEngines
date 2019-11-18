@@ -1,0 +1,8 @@
+﻿  Lab6.cpp
+  Tilemap.cpp
+C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\Lab6\Lab6.cpp(52,16): warning C4101:  'firstIt': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 607 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab6.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\SRGGE\Lab6\x64\Release\Lab6.exe
